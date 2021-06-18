@@ -1,0 +1,3 @@
+Grep <out.txt> <C:\Users\HP\Desktop\University\First_Semester_2021\Encs313-Linux\python\Project3>
+Mv_last <C:\Users\HP\Desktop\University\First_Semester_2021\Encs313-Linux\python\Project3> <C:\Users\HP\Desktop\University\First_Semester_2021\Encs313-Linux\python>
+Categorize <C:\Users\HP\Desktop\University\First_Semester_2021\Encs313-Linux\python\M>

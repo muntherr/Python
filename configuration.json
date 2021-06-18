@@ -1,0 +1,7 @@
+{
+  " Threshold_size ": "10KB",
+  " Max_commands ": "5",
+  " Max_log_files ": "7",
+  " Same_dir ": "false",
+  " output ": "csv"
+}
