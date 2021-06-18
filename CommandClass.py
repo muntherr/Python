@@ -1,6 +1,4 @@
-# Muntherr anati 1182028
-# Yasmin shadi 1182523
-
+# Muntherr anati 
 import glob
 import os
 import os.path
