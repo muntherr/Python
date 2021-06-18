@@ -1,5 +1,4 @@
-# Muntherr anati 1182028
-# Yasmin shadi 1182523
+# Muntherr anati 
 import CommandClass
 import ParseClass
 
